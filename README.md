@@ -1,2 +1,2 @@
 # h2dbexample
-mondial example of a h2 database
+simple example of a h2 database
